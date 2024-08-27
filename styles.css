@@ -1,0 +1,20 @@
+body{
+    background: black;
+    color:white;
+    padding: 20px;
+    font-size: 40px;
+    font-family: old english five;
+}
+#dios{
+border-bottom: solid 5px yellow;
+color: yellowgreen;
+}
+#dov{
+    display: flex;
+    justify-content:center;
+}
+#teste{
+    display: flex;
+    justify-content:end;
+    color:#494948
+}
